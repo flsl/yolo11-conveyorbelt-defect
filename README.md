@@ -228,3 +228,4 @@ yolo11n.pt模型
 测试图片（在test_img文件夹下面）
 
 注意提供训练的数据集，请到mytxt.txt文件中找到地址
+项目源码地址：https://mbd.pub/o/bread/YZWVlJ1sbA==
